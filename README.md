@@ -1,1 +1,4 @@
 # SAFRA
+Linear model code for Land uses optimization in the Valles County (Catalonia) c. 1860, framed in the Sustainable Agro-ecological Farm Reproduction Analysis (SAFRA). The code is in .mod format ready to be run in gusek (http://gusek.sourceforge.net/gusek.html). Details on model construction are explained in Padró, R., Marco, I., Font, C., & Tello, E. Beyond Chayanov: A Sustainable Farm Reproductive Analysis of Peasant Domestic Units and Rural Communities (Sentmenat; Catalonia, 1860). Submitted to Ecological Economics
+
+For any question, please contact roc.padro@uab.cat or carmefont@mat.uab.cat. Please refer our article: Font, C., Padró, R., Cattaneo, C., Marull, J., Tello, E., Alabert, A., Farré, M. How farmers shape cultural landscapes. Dealing with information in farm systems (Vallès County, Catalonia, 1860) (in preparation)
